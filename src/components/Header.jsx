@@ -33,7 +33,3 @@ export default function Header() {
     </header>
   );
 }
-
-/**export default function Header() {
-    return <header style={{ padding: "10px", background: "#f5f5f5" }}>Header</header>;
-} */
